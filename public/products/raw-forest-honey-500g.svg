@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+<rect width="400" height="300" fill="#FCEEC9"/>
+<circle cx="340" cy="50" r="70" fill="#ffffff" opacity="0.35"/>
+<circle cx="50" cy="260" r="60" fill="#ffffff" opacity="0.3"/>
+<ellipse cx="200" cy="258" rx="95" ry="10" fill="#000" opacity="0.12"/>
+<rect x="148" y="112" width="104" height="30" rx="8" fill="#8A5A2B"/>
+<rect x="138" y="138" width="124" height="118" rx="22" fill="#E9A21B" stroke="#C07F08" stroke-width="2"/>
+<rect x="152" y="168" width="96" height="58" rx="8" fill="#fff" opacity="0.92"/>
+<text x="200" y="192" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="800" fill="#8A5A2B">RAW HONEY</text>
+<text x="200" y="214" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="800" fill="#8A5A2B">500 g</text>
+<rect x="152" y="150" width="12" height="96" rx="6" fill="#fff" opacity="0.3"/>
+<path d="M258 130 q40 -20 52 30" stroke="#8A5A2B" stroke-width="6" fill="none" stroke-linecap="round"/>
+<circle cx="312" cy="168" r="10" fill="#E9A21B"/>
+<text x="200" y="288" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1F3D2F">Raw Forest Honey</text>
+</svg>

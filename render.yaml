@@ -1,0 +1,31 @@
+# Render deploy. No build step, no dependencies.
+# FREE plan: remove the 'disk:' block, set plan: free, and add SUPABASE_URL + SUPABASE_SERVICE_KEY (see README) so data survives restarts.
+services:
+  - type: web
+    name: gharfresh
+    runtime: node
+    plan: starter            # a disk needs a paid plan; on 'free' the data resets on every deploy/restart
+    buildCommand: echo "nothing to build"
+    startCommand: node server.js
+    healthCheckPath: /healthz
+    disk:
+      name: gharfresh-data
+      mountPath: /data
+      sizeGB: 1
+    envVars:
+      - key: NODE_VERSION
+        value: 22
+      - key: DATA_DIR
+        value: /data
+      - key: ADMIN_EMAIL
+        sync: false
+      - key: BREVO_API_KEY
+        sync: false
+      - key: BREVO_SENDER_EMAIL
+        sync: false
+      - key: BREVO_SENDER_NAME
+        value: GharFresh
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_SERVICE_KEY
+        sync: false

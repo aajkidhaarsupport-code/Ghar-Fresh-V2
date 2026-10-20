@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+<rect width="400" height="300" fill="#FBEDE2"/>
+<circle cx="340" cy="50" r="70" fill="#ffffff" opacity="0.35"/>
+<circle cx="50" cy="260" r="60" fill="#ffffff" opacity="0.3"/>
+<ellipse cx="200" cy="258" rx="95" ry="10" fill="#000" opacity="0.12"/>
+<rect x="110" y="100" width="180" height="150" rx="16" fill="#D8CFC4"/><ellipse cx="150" cy="160" rx="26" ry="33" fill="#FFF8F0" stroke="#E3D3C0" stroke-width="2"/><ellipse cx="142" cy="148" rx="7" ry="11" fill="#fff" opacity="0.5"/><ellipse cx="200" cy="160" rx="26" ry="33" fill="#FFF8F0" stroke="#E3D3C0" stroke-width="2"/><ellipse cx="192" cy="148" rx="7" ry="11" fill="#fff" opacity="0.5"/><ellipse cx="250" cy="160" rx="26" ry="33" fill="#FFF8F0" stroke="#E3D3C0" stroke-width="2"/><ellipse cx="242" cy="148" rx="7" ry="11" fill="#fff" opacity="0.5"/><ellipse cx="150" cy="215" rx="26" ry="33" fill="#FFF8F0" stroke="#E3D3C0" stroke-width="2"/><ellipse cx="142" cy="203" rx="7" ry="11" fill="#fff" opacity="0.5"/><ellipse cx="200" cy="215" rx="26" ry="33" fill="#FFF8F0" stroke="#E3D3C0" stroke-width="2"/><ellipse cx="192" cy="203" rx="7" ry="11" fill="#fff" opacity="0.5"/><ellipse cx="250" cy="215" rx="26" ry="33" fill="#FFF8F0" stroke="#E3D3C0" stroke-width="2"/><ellipse cx="242" cy="203" rx="7" ry="11" fill="#fff" opacity="0.5"/>
+<text x="200" y="288" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1F3D2F">Farm Fresh Eggs (12)</text>
+</svg>

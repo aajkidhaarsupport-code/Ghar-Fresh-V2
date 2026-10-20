@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+<rect width="400" height="300" fill="#E9EFFA"/>
+<circle cx="340" cy="50" r="70" fill="#ffffff" opacity="0.35"/>
+<circle cx="50" cy="260" r="60" fill="#ffffff" opacity="0.3"/>
+<ellipse cx="200" cy="258" rx="95" ry="10" fill="#000" opacity="0.12"/>
+<polygon points="150,110 250,110 238,252 162,252" fill="#fff" fill-opacity="0.75" stroke="#cfd8d3" stroke-width="2"/>
+<polygon points="155,135 245,135 236,248 164,248" fill="#F6B6C8"/>
+<line x1="215" y1="60" x2="228" y2="170" stroke="#C23A6B" stroke-width="8" stroke-linecap="round"/>
+<text x="200" y="205" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="800" fill="#fff">200 ml</text>
+<text x="200" y="288" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1F3D2F">Sweet Lassi</text>
+</svg>

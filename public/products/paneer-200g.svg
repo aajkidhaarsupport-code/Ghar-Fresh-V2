@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+<rect width="400" height="300" fill="#FFF4DD"/>
+<circle cx="340" cy="50" r="70" fill="#ffffff" opacity="0.35"/>
+<circle cx="50" cy="260" r="60" fill="#ffffff" opacity="0.3"/>
+<ellipse cx="200" cy="258" rx="95" ry="10" fill="#000" opacity="0.12"/>
+<rect x="125" y="195" width="60" height="50" rx="8" fill="#FFFBEF" stroke="#E6D9B8" stroke-width="2"/><rect x="125" y="195" width="60" height="14" rx="8" fill="#fff" opacity="0.8"/><rect x="185" y="205" width="60" height="50" rx="8" fill="#FFFBEF" stroke="#E6D9B8" stroke-width="2"/><rect x="185" y="205" width="60" height="14" rx="8" fill="#fff" opacity="0.8"/><rect x="245" y="190" width="60" height="50" rx="8" fill="#FFFBEF" stroke="#E6D9B8" stroke-width="2"/><rect x="245" y="190" width="60" height="14" rx="8" fill="#fff" opacity="0.8"/>
+<text x="200" y="288" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1F3D2F">Fresh Paneer 200 g</text>
+</svg>

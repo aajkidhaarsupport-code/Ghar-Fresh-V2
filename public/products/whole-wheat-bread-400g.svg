@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+<rect width="400" height="300" fill="#F6E9D8"/>
+<circle cx="340" cy="50" r="70" fill="#ffffff" opacity="0.35"/>
+<circle cx="50" cy="260" r="60" fill="#ffffff" opacity="0.3"/>
+<ellipse cx="200" cy="258" rx="95" ry="10" fill="#000" opacity="0.12"/>
+<path d="M110 235 L110 165 Q110 112 200 112 Q290 112 290 165 L290 235 Z" fill="#D9A25B" stroke="#B9803A" stroke-width="3"/>
+<path d="M122 232 L122 168 Q122 128 200 128 Q278 128 278 168 L278 232 Z" fill="#F0CF98"/>
+<line x1="160" y1="140" x2="160" y2="230" stroke="#D9A25B" stroke-width="3"/>
+<line x1="200" y1="132" x2="200" y2="230" stroke="#D9A25B" stroke-width="3"/>
+<line x1="240" y1="140" x2="240" y2="230" stroke="#D9A25B" stroke-width="3"/>
+<text x="200" y="288" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1F3D2F">Whole Wheat Bread</text>
+</svg>

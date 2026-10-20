@@ -1,0 +1,13 @@
+{
+  "name": "gharfresh",
+  "version": "2.0.0",
+  "description": "GharFresh: fully automated daily milk & dairy delivery (shop, rider app, admin). Zero dependencies.",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node tests/e2e.js"
+  },
+  "engines": { "node": ">=20" }
+}

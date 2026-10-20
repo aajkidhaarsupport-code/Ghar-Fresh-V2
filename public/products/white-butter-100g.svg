@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+<rect width="400" height="300" fill="#FFEFCF"/>
+<circle cx="340" cy="50" r="70" fill="#ffffff" opacity="0.35"/>
+<circle cx="50" cy="260" r="60" fill="#ffffff" opacity="0.3"/>
+<ellipse cx="200" cy="258" rx="95" ry="10" fill="#000" opacity="0.12"/>
+<ellipse cx="200" cy="232" rx="105" ry="22" fill="#fff" stroke="#e3e3e3"/>
+<rect x="140" y="170" width="120" height="62" rx="10" fill="#FFE98A" stroke="#E7C94F" stroke-width="2"/>
+<rect x="140" y="170" width="120" height="18" rx="10" fill="#FFF3B8"/>
+<rect x="228" y="150" width="46" height="28" rx="4" fill="#FFF3B8" stroke="#E7C94F" transform="rotate(-12 250 164)"/>
+<text x="200" y="288" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1F3D2F">White Butter 100 g</text>
+</svg>
